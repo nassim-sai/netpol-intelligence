@@ -20,8 +20,7 @@ This project was developed as a **PFE (End-of-Study Engineering Project)** at **
 
 [![dashboard-preview](docs/screenshots/dashboard-overview.png)](docs/screenshots/dashboard-overview.png)
 
-[![Audio Demo](https://drive.google.com/file/d/1rFGBKbHkcNOwmV2OOBt-vnt5wh37wYey/view?usp=drive_link)**
-
+[![Audio Demo](https://img.shields.io/badge/🎧%20Audio%20Demo-Listen%20on%20Google%20Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rFGBKbHkcNOwmV2OOBt-vnt5wh37wYey/view?usp=drive_link)
 ---
 
 ## 🎯 Objectives
