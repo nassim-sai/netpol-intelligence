@@ -18,6 +18,7 @@ Rather than relying on a human to manually inspect `NetworkPolicy` YAML for secu
 
 This project was developed as a **PFE (End-of-Study Engineering Project)** at **NextStep IT** (Tunis, Tunisia), in partnership with **TEK-UP University**.
 
+<!--   [![dashboard-preview](docs/screenshots/dashboard-overview.png)](docs/screenshots/dashboard-overview.png)  -->
 [![dashboard-preview](docs/screenshots/dashboard-overview.png)](docs/screenshots/dashboard-overview.png)
 
 ---
